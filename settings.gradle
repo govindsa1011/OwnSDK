@@ -1,0 +1,3 @@
+rootProject.name='OwnSDK'
+include ':app'
+include ':library_module'
