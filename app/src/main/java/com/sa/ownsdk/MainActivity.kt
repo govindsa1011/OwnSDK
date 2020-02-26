@@ -1,8 +1,8 @@
 package com.sa.ownsdk
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.sa.library_module.ToastUtils
+import androidx.appcompat.app.AppCompatActivity
+import com.sa.mysdk.ToastUtils
 
 class MainActivity : AppCompatActivity() {
 

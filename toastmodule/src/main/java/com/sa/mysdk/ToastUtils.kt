@@ -1,4 +1,4 @@
-package com.sa.library_module
+package com.sa.mysdk
 
 import android.content.Context
 import android.widget.Toast
